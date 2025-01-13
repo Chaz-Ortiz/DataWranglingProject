@@ -1,3 +1,3 @@
 # DataWranglingProject
-Data wrangling project 
-in python
+This is a data wrangling project in python.
+
